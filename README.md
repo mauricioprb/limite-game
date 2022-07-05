@@ -1,6 +1,6 @@
 <h1 align="center">Limite</h1>
 
-<p align="left">Limite é um projeto baseado no jogo Wordle desenvolvido como projeto final da disciplina de Linguagem de Programação II.</p>
+<p align="left">Limite é um projeto baseado no jogo Wordle desenvolvido como projeto final da disciplina de Linguagem de Programação I.</p>
 
 <h2 align="left">Objetivo:</h2>
 
